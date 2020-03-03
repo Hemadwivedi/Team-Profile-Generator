@@ -1,0 +1,18 @@
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.header-Container{
+    background-color:skyblue;
+}
+
+    .card-header{
+        background-color: skyblue;
+       
+    }
+    .card{
+        display:flex !important;
+    }
